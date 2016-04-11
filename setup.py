@@ -12,6 +12,7 @@ setup(
     author='Brian Faherty',
     author_email='anothergenericuser@gmail.com',
     maintainer='Brian Faherty',
+    test_suite='hu_diff.tests',
     maintainer_email='anothergenericuser@gmail.com',
     packages= find_packages(),
     install_requires = [],
